@@ -1,2 +1,2 @@
-Download 'images' folder and the Jupyter notebook
-Run the Jupyter notebook
+Download 'images' folder and the Jupyter notebook.
+ Run the Jupyter notebook
